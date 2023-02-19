@@ -18,7 +18,7 @@ Some time you can`t get the file form your link because 2 reason:
 1. your connect is low
 2. this answer not available in Scribd-dowload 
 
-# how to use
+# How to run?
 - open and Scribd-dowload.py file
 - 
 # Contact 
