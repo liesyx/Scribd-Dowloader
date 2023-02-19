@@ -7,7 +7,6 @@ Find Bug And Track Report Send At: dungkm456@gmail.com
 Use My Project To Make Modern App
 # How to Use ?
 just input the link Scribd and enjoy it XD
-dont care about key ( i do it J4F XD)
 #  
 ![image](https://user-images.githubusercontent.com/63604038/219938821-197c9920-6de8-4e5e-8376-15745f9e7083.png)
 
