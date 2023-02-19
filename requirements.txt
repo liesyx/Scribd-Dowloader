@@ -1,0 +1,3 @@
+tk
+requests
+beautifulsoup4
