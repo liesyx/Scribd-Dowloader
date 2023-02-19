@@ -19,7 +19,13 @@ Some time you can`t get the file form your link because 2 reason:
 2. this answer not available in Scribd-dowload 
 
 # How to run?
-- open and Scribd-dowload.py file
+- Step 1: Open folder 
+- ![image](https://user-images.githubusercontent.com/63604038/219957531-4ee9c088-5086-4449-8952-466c6b4f4ad3.png)
+- Step 2: copy and paste 
+- pip install -r requirements.txt
+- ![image](https://user-images.githubusercontent.com/63604038/219957584-689ee716-c30f-4976-a340-cfefa8076194.png)
+- Step 3: Enter:
+- Step 4: open Scribd-dowload.py file and enjoy it XD
 # Contact 
 - Email: dungkm456@gmail.com
 
