@@ -20,6 +20,7 @@ Some time you can`t get the file form your link because 2 reason:
 
 # How to run?
 - Step 1: Open folder 
+- click open in terninal
 - ![image](https://user-images.githubusercontent.com/63604038/219957531-4ee9c088-5086-4449-8952-466c6b4f4ad3.png)
 - Step 2: copy and paste 
 - pip install -r requirements.txt
