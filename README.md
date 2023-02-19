@@ -28,7 +28,10 @@ Some time you can`t get the file form your link because 2 reason:
 - python .\Scribd-dowload.py
 - ![image](https://user-images.githubusercontent.com/63604038/219961095-a0ffca68-c2b5-4180-9a16-be81b0883470.png)
 
-- Step 4:  enjoy it XD
+- Step 4: 
+-  input link Scribd enjoy it XD
+- ![image](https://user-images.githubusercontent.com/63604038/219961261-3fa3eca6-8989-4d29-8923-d909830a9694.png)
+
 # Contact 
 - Email: dungkm456@gmail.com
 
