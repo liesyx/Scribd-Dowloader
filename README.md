@@ -26,7 +26,7 @@ Some time you can`t get the file form your link because 2 reason:
 - ![image](https://user-images.githubusercontent.com/63604038/219957584-689ee716-c30f-4976-a340-cfefa8076194.png)
 - Step 3: Enter
 - python .\Scribd-dowload.py
-![image](https://user-images.githubusercontent.com/63604038/219961095-a0ffca68-c2b5-4180-9a16-be81b0883470.png)
+- ![image](https://user-images.githubusercontent.com/63604038/219961095-a0ffca68-c2b5-4180-9a16-be81b0883470.png)
 
 - Step 4:  enjoy it XD
 # Contact 
