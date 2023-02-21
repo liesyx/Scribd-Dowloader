@@ -19,7 +19,7 @@ Some time you can`t get the file form your link because 2 reason:
 
 # How to run?
 Scribd-dowloader.exe
-- ![image](https://user-images.githubusercontent.com/63604038/219961261-3fa3eca6-8989-4d29-8923-d909830a9694.png)
+
 
 # Contact 
 - Email: dungkm456@gmail.com
